@@ -40,8 +40,6 @@ Posters are fetched from TMDB and displayed alongside the titles.
 
 # Screenshots of the UI
 
-Landing page
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/b3efaa3d-41bf-40c7-a32a-33f8f31e9a72" />
 
-Recommedation after typing a movie
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5a42f688-732e-4fab-b140-a786269755e8" />
