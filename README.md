@@ -30,12 +30,13 @@ Posters are fetched from TMDB and displayed alongside the titles.
 
 # Steps to run
 
-1. Run the requirements.txt file
+1. Extract the csv files which are in the ZIP file, and place both the files in the same directory as the python code.
+2. Run the requirements.txt file
    pip install -r requirements.txt
-2. Run the movierecommender.py file
+3. Run the movierecommender.py file
    python movierecommender.py
-3. This will give you two pickle files as output - similarity.pkl and movie.pkl
-4. Run the app.py file using streamlit
+4. This will give you two pickle files as output - similarity.pkl and movie.pkl
+5. Run the app.py file using streamlit
    streamlit run app.py
 
 # Screenshots of the UI
