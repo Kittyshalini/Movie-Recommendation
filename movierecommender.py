@@ -11,10 +11,10 @@ import pandas as pd
 
 import numpy as np
 
-df_credits = pd.read_csv('/tmdb_5000_credits.csv')
+df_credits = pd.read_csv('tmdb_5000_credits.csv')
 df_credits.tail()
 
-df_movie = pd.read_csv('/tmdb_5000_movies.csv')
+df_movie = pd.read_csv('tmdb_5000_movies.csv')
 df_movie.tail()
 
 df_movie['cast'] = df_credits['cast']
